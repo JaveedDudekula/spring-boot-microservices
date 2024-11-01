@@ -1,1 +1,6 @@
 *.sock
+
+api-gateway/volume-data/
+inventory-service/mysql/
+order-service/mysql/
+product-service/data/
