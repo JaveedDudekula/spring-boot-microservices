@@ -35,3 +35,4 @@ build/
 *.sock
 
 mysql/
+!docker/mysql/
